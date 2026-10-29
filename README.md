@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **dev-toolkit**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/santi-teleprompter` 分支；活跃维护请前往 **dev-toolkit**。
+> _This repo is archived into dev-toolkit; development continues there. Do not commit here._
+
 # 远子学姐的三题故事 · 提词器
 
 一个为「三题故事」而生的提词器。给定三个词语为题，限时写成美妙的故事——就像《文学少女》（野村美月）里远子学姐每天给心叶出的题目一样。
